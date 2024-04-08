@@ -1,10 +1,10 @@
 # ゲームプログラミング1年(2024年度入学生)
 
-- [シラバス]()
+- [シラバス](https://drive.google.com/file/d/15r6K_xHBIvoYN_IRygon3yEAR5bgpe9Z/)
 - [Google Meet](https://meet.google.com/bwb-njcm-udh)
 - [Slack](https://datgm24.slack.com)
 - [金曜 講義日程](fri.md)
-- [書く教科書の作例](https://github.com/datgm23/csharp-manual)
+- [書く教科書の作例](https://github.com/datgm24/csharp-manual)
 - その他
   - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
