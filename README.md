@@ -4,6 +4,7 @@
 - [Google Meet](https://meet.google.com/bwb-njcm-udh)
 - [Slack](https://datgm24.slack.com)
 - [金曜 講義日程](fri.md)
+- [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform?usp=sf_link)
 - [書く教科書の作例](https://github.com/datgm24/csharp-manual)
 - その他
   - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
