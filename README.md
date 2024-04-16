@@ -31,7 +31,7 @@
 - [GDevelop](https://gdevelop.io/ja-jp)
 
 ## 1回目(4/19)
-- [ガイダンス]()
+- ガイダンス
   - [プログラミングを学ぶ前に](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
   - GmailアカウントとGitHubアカウントを作成していない場合は[こちら](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
 - [講義メモ](https://docs.google.com/document/d/1olAvmpehNVCLBdf329Ubas7FgygtEqyk5j9nyE-rTEI/)
