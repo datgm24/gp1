@@ -15,7 +15,7 @@
 ## 参考資料
 - [Unityの動作環境](https://am1.jp/tutorials/unity/spec/)
 - Unityのインストールは[Cluster](https://creator.cluster.mu/cck-worldcreatetutroial-home/)を開いて、Googleアカウントでサインインして、「Unityを導入する」の手順を参照
-  - 2023年度の学校のバージョンはUnity2021.3.4f1
+  - 2024年度の学校のバージョンはUnity2021.3.4f1
 - [Unity Learning Materials](https://learning.unity3d.jp/)
 - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
 - [Unityスタッフのブックマーク](https://note.com/unityjapan/m/m5978b902c2b5)
