@@ -30,6 +30,22 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 2回目(4/26)
+
+### 話題
+- [unity1week online共有会 #15. Yamasho: 備忘録のススメ](https://www.youtube.com/watch?v=wmF1z5Epr1g&t=2825s)
+
+### 予定
+- 書く教科書
+  - 目的
+    - あとで自習するための手順を残すこと
+    - 習ったことを質問せずに済むようにすること
+  - 要点
+    - 教員のメモを写す必要はない
+    - わかりきっていることは省略してよいし、教員の説明がわかりにくければ自分流に書けばよい
+    - 入力例は後ほど公開するので、間に合わなくても気にせずに講義が進みはじめたら講義に集中する
+- [キー入力の練習](https://docs.google.com/document/d/1olAvmpehNVCLBdf329Ubas7FgygtEqyk5j9nyE-rTEI/edit#heading=h.ykvnuvatyepj)
+
 ## 1回目(4/19)
 - ガイダンス
   - [プログラミングを学ぶ前に](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
