@@ -30,12 +30,37 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 3回目(5/10)
+
+### 予定
+
+### 復習問題
+
+### 内容
+- 書く教科書01の復習と続き
+  - Visual Studioの基本操作 / 問題の解消
+  - [書く教科書の作例](https://github.com/datgm24/csharp-manual)
+- 確認
+  - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
+
+### 内容
+- 書く教科書01の復習と続き
+  - Visual Studioの基本操作 / 問題の解消
+  - [書く教科書の作例](https://github.com/datgm23/csharp-manual)
+- Unityの動作確認
+- 独習
+  - [Unity Learning Materials](https://learning.unity3d.jp/)
+  - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
+    - アカウントをGitHubで登録
+  - プログラミング関連の良質な記事が日々増えているので、よいサイトを探してみてください！
+
+
 ## 2回目(4/26)
 
 ### 話題
 - [unity1week online共有会 #15. Yamasho: 備忘録のススメ](https://www.youtube.com/watch?v=wmF1z5Epr1g&t=2825s)
 
-### 予定
+### 内容
 - 書く教科書
   - 目的
     - あとで自習するための手順を残すこと
