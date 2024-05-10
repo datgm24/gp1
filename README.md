@@ -22,7 +22,7 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [Koji Kita. 今年もミクシィの22新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)
 
-## 自習可能なゲームエンジン
+## 自習可能なゲームエンジン　
 - [ティラノビルダー](https://b.tyrano.jp/)
 - [ティラノスクリプト](https://tyrano.jp/)
 - [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)
