@@ -36,6 +36,7 @@
 
 ### 予定
 - 書く教科書 04.mdの(name)から
+  - [VisualStudioのプロジェクトをGitHubにPublishする]
 
 
 ## 3回目(5/10)
