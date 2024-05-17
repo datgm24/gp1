@@ -35,8 +35,9 @@
 ### 復習問題
 
 ### 予定
-- 書く教科書 04.mdの(name)から
+- 前回のプロジェクト（cs0510）を開いて、GitHubにパブリッシュする
   - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B)
+- 書く教科書 04.mdの(name)から
 
 
 ## 3回目(5/10)
