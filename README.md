@@ -30,6 +30,17 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 5回目(5/24)
+
+### 復習問題
+
+### 予定
+- 書く教科書 06.mdから
+  - コントロールの表現を増やす
+  - 変数(1)
+  - [命名規則](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
+
+
 ## 4回目(5/17)
 
 ### 復習問題
@@ -64,7 +75,7 @@
 - ラベルを作って、クリックすると表示が変わるようにする
 - その他、思いついたことを実装
 
-### 予定
+### 内容
 - 前回のプロジェクト（cs0510）を開いて、GitHubにパブリッシュする
   - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
 - 書く教科書 04.mdの(name)から
