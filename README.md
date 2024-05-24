@@ -30,6 +30,15 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 6回目(5/31)
+
+### 復習問題
+
+### 予定
+- 書く教科書 07.md 変数名から
+  - [命名規則](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
+
+
 ## 5回目(5/24)
 
 ### 復習問題
@@ -60,11 +69,10 @@
 - その他、思いついたことを試す
 
 
-### 予定
+### 内容
 - 書く教科書 06.mdから
   - コントロールの表現を増やす
   - 変数(1)
-  - [命名規則](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 
 
 ## 4回目(5/17)
