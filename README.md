@@ -32,6 +32,9 @@
 
 ## 6回目(5/31)
 
+### 話題
+- [paiza times. プログラミング初心者がpaizaでBランクをとった話](https://paiza.hatenablog.com/entry/2024/05/30/160000)
+
 ### 復習問題
 「書く教科書」とGitHubの使い方のドキュメントを参照して、以下の手順に従ってVisual C#プロジェクトを作成して、GitHubで公開せよ。
 
