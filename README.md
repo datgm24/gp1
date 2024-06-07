@@ -30,6 +30,25 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 8回目(6/14)
+
+- 指定の座席へ移動
+
+### 復習問題
+
+
+## 予定
+- 書く教科書 配列 / 繰り返し
+- ゲ制班:開発キットの紹介と選択
+  - 自力で使えそうなゲーム制作ツールを調べて選ぶ。管理者権限が不要なものであること。以下、候補例
+    - [ティラノビルダー](https://b.tyrano.jp/)
+    - [ティラノスクリプト](https://tyrano.jp/)
+    - [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)
+    - [Mind Render](https://mindrender.jp/)
+    - [RAPTEX](https://raptex.jp/)
+    - [GDevelop](https://gdevelop.io/ja-jp)
+  - 今週、来週でツールの選択と使い方の調査、制作するゲーム内容の検討。再来週の28日に調査結果の報告予定
+
 ## 7回目(6/7)
 
 ### 話題
@@ -63,7 +82,7 @@
 - その他、思いついたことを試す
 
 
-### 予定
+### 内容
 - 書く教科書 08.md 演習8-3のおまけから
 
 
