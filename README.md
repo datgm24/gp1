@@ -25,10 +25,11 @@
 ## 自習可能なゲームエンジン
 - [ティラノビルダー](https://b.tyrano.jp/)
 - [ティラノスクリプト](https://tyrano.jp/)
+- [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
+- [GDevelop](https://gdevelop.io/ja-jp)
 - [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
-- [GDevelop](https://gdevelop.io/ja-jp)
 
 ## 8回目(6/14)
 
@@ -46,10 +47,12 @@
   - 自力で使えそうなゲーム制作ツールを調べて選ぶ。管理者権限が不要なものであること。以下、候補例
     - [ティラノビルダー](https://b.tyrano.jp/)
     - [ティラノスクリプト](https://tyrano.jp/)
+    - [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
+    - [GDevelop](https://gdevelop.io/ja-jp)
     - [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)
     - [Mind Render](https://mindrender.jp/)
     - [RAPTEX](https://raptex.jp/)
-    - [GDevelop](https://gdevelop.io/ja-jp)
+  - 英語は、ブラウザーの翻訳機能や、スマホのGoogleアプリの翻訳機能を使えば読める。訳がわからない場合は、[DeepL](https://www.deepl.com/ja/translator)を試す
   - 今週、来週でツールの選択と使い方の調査、制作するゲーム内容の検討。再来週の28日に調査結果の報告予定
 
 ## 7回目(6/7)
