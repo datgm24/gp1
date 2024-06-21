@@ -31,6 +31,28 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 
+## 10回目(6/28)
+
+- GP1講義用の座席
+
+### 予定
+
+- プログラム班
+  - [ミニゲーム作成](https://docs.google.com/document/d/1Vzw2c_B2k_SkikI1Hw0QSrY9_sMZWh29ZpidbmGUVoc/)
+    - キー入力、ゲームオーバーのデバッグキーから
+- ゲ制班
+  - 自力で使えそうなゲーム制作ツールを調べて選ぶ。管理者権限が不要なものであること。以下、候補例
+    - [ティラノビルダー](https://b.tyrano.jp/)
+    - [ティラノスクリプト](https://tyrano.jp/)
+    - [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
+    - [GDevelop](https://gdevelop.io/ja-jp)
+    - [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)
+    - [Mind Render](https://mindrender.jp/)
+    - [RAPTEX](https://raptex.jp/)
+  - 英語は、ブラウザーの翻訳機能や、スマホのGoogleアプリの翻訳機能を使えば読める。訳がわからない場合は、[DeepL](https://www.deepl.com/ja/translator)を試す
+  - 今週、来週でツールの選択と使い方の調査、制作するゲーム内容の検討。再来週の28日に状況を報告予定
+  - **学習のための基礎力を身に着けることが目的なので、成果が出なくても構わない**。自分のペースで、ドキュメントを探したり、読んだり、試したりすることが大切。1年間を費やすぐらいの気持ちで、じっくりと腰を据えて取り組んでほしい
+
 ## 9回目(6/21)
 
 ### 話題
@@ -38,7 +60,7 @@
 
 - GP1講義用の座席
 
-### 予定
+### 内容
 - プログラム班
   - 書く教科書 繰り返し(2) for文のcontinueとbreakから
   - [ミニゲーム作成](https://docs.google.com/document/d/1Vzw2c_B2k_SkikI1Hw0QSrY9_sMZWh29ZpidbmGUVoc/)
