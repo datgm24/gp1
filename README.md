@@ -41,6 +41,7 @@
 ### 予定
 - プログラム班
   - 書く教科書 繰り返し(2) for文のcontinueとbreakから
+  - [ミニゲーム作成](https://docs.google.com/document/d/1Vzw2c_B2k_SkikI1Hw0QSrY9_sMZWh29ZpidbmGUVoc/)
 - ゲ制班
   - 自力で使えそうなゲーム制作ツールを調べて選ぶ。管理者権限が不要なものであること。以下、候補例
     - [ティラノビルダー](https://b.tyrano.jp/)
