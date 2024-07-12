@@ -72,7 +72,11 @@
   - [ミニゲーム作成](https://docs.google.com/document/d/1Vzw2c_B2k_SkikI1Hw0QSrY9_sMZWh29ZpidbmGUVoc/)
     - クリア判定の完成から
   - よけとる for Unityの開発
-    - 状態遷移
+    - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/edit#heading=h.j3zyuiaqo5cz)
+    - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/edit#heading=h.mjatj7c2eklf)
+    - [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM/edit#heading=h.x9yaoexbl5qg)
+    - [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/edit#heading=h.25sv726tc2lz)
+    - [04内積の利用](https://docs.google.com/document/d/1xJZQYe3iTmJrMh4GcMJcK34LwG7NU9IXZJS2eH9_E9I/edit#heading=h.25sv726tc2lz)
 - ゲ制班
   - 自力で使えそうなゲーム制作ツールを調べて選ぶ。管理者権限が不要なものであること。以下、候補例
     - [ティラノビルダー](https://b.tyrano.jp/)
