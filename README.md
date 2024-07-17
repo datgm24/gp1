@@ -59,6 +59,19 @@
 
 -->
 
+## 13回目(7/19)
+
+### 予定
+- paizaの練習
+- よけとる for Unityの開発
+  - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/edit#heading=h.j3zyuiaqo5cz)
+  - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/edit#heading=h.mjatj7c2eklf)
+  - [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM/edit#heading=h.x9yaoexbl5qg)
+  - [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/edit#heading=h.25sv726tc2lz)
+  - [04内積の利用](https://docs.google.com/document/d/1xJZQYe3iTmJrMh4GcMJcK34LwG7NU9IXZJS2eH9_E9I/edit#heading=h.25sv726tc2lz)
+- ゲ制班
+  - 夏休み課題を進める
+
 ## 12回目(7/12)
 
 - GP1講義用の座席
@@ -66,7 +79,7 @@
 ### 話題
 - [1週間ゲームジャム](https://x.com/naichilab/status/1809254432988963005)
 
-### 予定
+### 内容
 
 - プログラム班
   - [ミニゲーム作成](https://docs.google.com/document/d/1Vzw2c_B2k_SkikI1Hw0QSrY9_sMZWh29ZpidbmGUVoc/)
