@@ -31,7 +31,6 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 
-<!--
 ## 夏休み課題(ゲームデザイン実習、ゲームプログラミング共通)
 以下のうち１つを選んで、夏休み中に完成させて、指定のものを提出する。
 
@@ -42,7 +41,7 @@
   - NG例　絵の差し替えのみ / アニメの変更のみ
 - 選択肢２　オリジナルゲームを完成させる
   - 自分で考えた企画を完成させる
-  - 使用するツールは学校で使えるものなら自由(Unity, UE, GDevelop, ティラノスクリプト, Light.vnなど)
+  - 使用するツールは学校で使えるものなら自由(Unity, GDevelop, ティラノスクリプト, Light.vnなど)
 - 選択肢３　ネット上で見つけたチュートリアルの改造
   - ネット上でブログなどで紹介されている作品を完成させる
   - 選択肢1と同じくプログラムの改変を伴う改造をする
@@ -54,21 +53,20 @@
   - ゲーム概要、操作説明、ルール説明
   - ゲーム内容がわかるスクリーンショット1枚
   - 参考にしたブログや書籍のリスト
-  - 仕様アセットリスト
+  - 使用アセットリスト(URL)
 - 実行ファイル(ビルドできたら)
-
--->
 
 ## 13回目(7/19)
 
 ### 予定
-- paizaの練習
 - よけとる for Unityの開発
   - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/edit#heading=h.j3zyuiaqo5cz)
   - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/edit#heading=h.mjatj7c2eklf)
   - [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM/edit#heading=h.x9yaoexbl5qg)
   - [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/edit#heading=h.25sv726tc2lz)
+    - マウス座標からワールド座標変換から
   - [04内積の利用](https://docs.google.com/document/d/1xJZQYe3iTmJrMh4GcMJcK34LwG7NU9IXZJS2eH9_E9I/edit#heading=h.25sv726tc2lz)
+- paizaの練習
 - ゲ制班
   - 夏休み課題を進める
 
