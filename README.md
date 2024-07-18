@@ -66,7 +66,7 @@
   - [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/edit#heading=h.25sv726tc2lz)
     - マウス座標からワールド座標変換から
   - [04内積の利用](https://docs.google.com/document/d/1xJZQYe3iTmJrMh4GcMJcK34LwG7NU9IXZJS2eH9_E9I/edit#heading=h.25sv726tc2lz)
-- paizaの練習
+- [paizaスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
 - ゲ制班
   - 夏休み課題を進める
 
