@@ -36,6 +36,8 @@
 ### 予定
 
 - 夏休み課題の仕上げと提出
+- 講評
+  - [SPACE SHOOTING](https://docs.google.com/document/d/1AbKEA7YMDb5ECyFxh5MqqCq_oNCsoKSu7P_vam6kE84/)
 - DATフェスタの展示内容の検討
   - 対象企画の選択
   - チーム作成
