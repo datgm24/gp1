@@ -37,6 +37,7 @@
 
 - [paiza](https://paiza.jp/)
   - [paizaのスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
+  - ランクを取得できたら、マイページのランクページをスクリーンショットで撮って、Slackの自分のtimesに貼り付ける
 - DATフェスタ企画の検討
   - 以下の企画をベースに検討を進める
     - SPACE SHOOTINGと水中探索
