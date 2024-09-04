@@ -31,9 +31,29 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 
+## 15回目(9/6)
+
+## 予定
+
+- [paiza](https://paiza.jp/)
+  - [paizaのスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
+- DATフェスタ企画の検討
+  - 以下の企画をベースに検討を進める
+    - SPACE SHOOTINGと水中探索
+      - サカモト、サクマ、ナガサキ
+    - 横スクロール型探索ゲーム
+      - グエン、トリン、ファン
+    - 真夜中の教室
+      - スサ、ナカヤマ
+  - 企画のブラッシュアップの方針の検討
+    - Googleドキュメントを作成して、チームメンバーで共有する
+    - 案を書き出す
+    - 必要な作業を書き出す
+
+
 ## 14回目(8/30)
 
-### 予定
+### 内容
 
 - 夏休み課題の仕上げと提出
 - 講評
