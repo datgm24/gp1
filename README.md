@@ -31,24 +31,16 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 
-## 後期1回目
+## 後期1回目(10/4)
 
 ### 予定
 
-- DATフェスタ企画の検討
-  - 以下の企画をベースに検討を進める
-    - SPACE SHOOTINGと水中探索
-      - サカモト、サクマ、ナガサキ
-    - 横スクロール型探索ゲーム：使用ツール、企画内容とも変更してOK
-      - グエン、トリン、ファン
-    - 真夜中の教室：使用ツール、企画内容とも変更してOK
-      - スサ、ナカヤマ
-  - [SPACE SHOOTER作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/) 敵A, B, Cの検討から
-  - [水中探索]()
-  - 企画のブラッシュアップの方針の検討
-    - Googleドキュメントを作成して、チームメンバーで共有する
-    - 案を書き出す
-    - 必要な作業を書き出す
+- 進捗報告に基づいて検討と開発
+  - Googleドキュメントを作成して、チームメンバーで共有する
+  - 案を書き出す
+  - 必要な作業を書き出す
+- [SPACE SHOOTER作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/) 敵A, B, Cの検討から
+- [水中探索](https://docs.google.com/document/d/1P0pPZxh-_32VVJR4lYr1o7OXSe--rCjcRLYNqejPSeQ/)
 
 
 ---
