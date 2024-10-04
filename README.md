@@ -35,11 +35,10 @@
 
 ### 予定
 
-- 進捗報告に基づいて検討と開発
-  - Googleドキュメントを作成して、チームメンバーで共有する
-  - 案を書き出す
-  - 必要な作業を書き出す
 - [SPACE SHOOTER作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/) 敵A, B, Cの検討から
+  - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/1dSyVz3NBG7-zUDoey8ss6yPZwC6486fVwh4LGlNNvPM/)
+    - Googleにログインしてから、開く
+    - 応募要項にある項目を、基本情報に列挙して、書き込む
 - [水中探索](https://docs.google.com/document/d/1P0pPZxh-_32VVJR4lYr1o7OXSe--rCjcRLYNqejPSeQ/)
 
 
