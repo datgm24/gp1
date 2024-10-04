@@ -33,6 +33,10 @@
 
 ## 後期1回目(10/4)
 
+### 話題
+
+- [シューティングゲームの敵の出現方法](https://docs.google.com/document/d/1jBvajLqiV6JA7mU6YXgmpmEPSDo2Q36jGUE44wp6dvg/)
+
 ### 予定
 
 - [SPACE SHOOTER作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/) 敵A, B, Cの検討から
