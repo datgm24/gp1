@@ -33,6 +33,9 @@
 
 ## 後期2回目(10/11)
 
+### 資料
+- [チーム開発-Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
+
 ### 予定
 - [Galaxy STELLA(仮)作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/) 敵A, B, Cの検討から
   - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/1dSyVz3NBG7-zUDoey8ss6yPZwC6486fVwh4LGlNNvPM/)
