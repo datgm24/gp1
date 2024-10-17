@@ -33,6 +33,9 @@
 
 ## 後期3回目(10/18)
 
+### 話題
+- [Unity6がリリース](https://unity.com/ja/releases/unity-6)
+
 ### 予定
 
 - [Galaxy STELLA(仮)作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/)
