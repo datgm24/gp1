@@ -31,9 +31,17 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 
-## 後期4回目(10/25)
+
+
+## 後期5回目(11/1)
+
+### 展示要件
+- 現場に人がいなくても、操作できる状態にする
+- ゲームオーバーやクリアをしたら、リスタートできるようにする
+- リスタートの機能が実装できていない場合は、ゲームオーバーやクリアを削除して、ずっとゲーム画面のままにしておく
 
 ### 予定
+- ビルドと動作確認
 - [Galaxy STELLA(仮)作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/)
   - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/1dSyVz3NBG7-zUDoey8ss6yPZwC6486fVwh4LGlNNvPM/)
 - [水中探索](https://docs.google.com/document/d/1P0pPZxh-_32VVJR4lYr1o7OXSe--rCjcRLYNqejPSeQ/)
@@ -52,6 +60,14 @@
   - `X:\2024年\ゲーム学科\gp1\DATフェスタ実行ファイル` の中に作品名のフォルダーを作成して、その中にビルドした実行ファイルをコピーする
   - ビルドができない場合は、プロジェクトフォルダーまるごとでよい
   - コピーしたものを、ほかのPCから実行できるか確認する
+
+
+## 後期4回目(10/25)
+
+### 内容
+- [Galaxy STELLA(仮)作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/)
+  - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/1dSyVz3NBG7-zUDoey8ss6yPZwC6486fVwh4LGlNNvPM/)
+- [水中探索](https://docs.google.com/document/d/1P0pPZxh-_32VVJR4lYr1o7OXSe--rCjcRLYNqejPSeQ/)
 
 ## 後期3回目(10/18)
 
