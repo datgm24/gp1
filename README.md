@@ -33,6 +33,10 @@
 
 ## 後期6回目(11/15)
 
+### 今後の1年生の進行
+- 今回の開発経験をもとに、設計や最適化、企画運営の考え方を深める
+- 2年生の卒業制作に向けた下準備
+
 ### 話題
 - [Unity eBooks](https://unity3d.jp/game/game-ebooks/)
 - [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
