@@ -31,7 +31,33 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 
+## 後期6回目(11/15)
 
+### 今後の1年生の進行
+- DATフェスタのデータを取りまとめて、可能な範囲でWeb公開
+- 今回の開発経験をもとに、設計や最適化、企画運営の考え方を深める
+- 2年生の卒業制作に向けた下準備
+
+### 話題
+- [Unity eBooks](https://unity3d.jp/game/game-ebooks/)
+- [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
+
+### 内容
+- DATフェスタ版のビルドデータ、インストカードのデータ、プロジェクトの提出
+  - Unity
+    - インストカードのデータを、Unityのプロジェクトフォルダーにコピーする
+    - GitHubに最新版をコミット、プッシュして、教員に共有
+  - ティラノ
+    - プロジェクトフォルダーをZIP圧縮する
+    - `Z:\2024\student\gp1\DATフェスタ展示版プロジェクト一式`フォルダーを開いて、新しいフォルダーを作成して、フォルダー名を作品名に変更
+    - 圧縮したZIPファイルと、インストカードのデータを作成したフォルダーにコピーする
+- 展示のまとめ
+  - Googleドキュメントを新規に作成して文章名を「DATフェスタまとめ：氏名」とする(例 DATフェスタまとめ：田中)
+  - 展示をしていて気づいた点、来場者のコメントをGoogleドキュメントにまとめる
+  - 共有をクリックして、リンクを知っている全員が編集できるように設定して、共有リンクを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform?usp=sf_link)に報告
+  - 参考： https://am1tanaka.hatenablog.com/entry/2021/11/14/223032
+- 提出されたビルドとドキュメントを確認して、今後の方向性を検討
+  - [講師のコメント]()
 
 ## 後期5回目(11/1)
 
@@ -41,7 +67,7 @@
 - リスタートの機能が実装できていない場合は、ゲームオーバーやクリアを削除して、ずっとゲーム画面のままにしておく
 - データを共有ドライブに出力して、ほかのPCで動作するかと、展示状況を確認する
 
-### 予定
+### 内容
 - ビルドと動作確認
 - [Galaxy STELLA(仮)作業メモ](https://docs.google.com/document/d/1cbr9tilZ6O1Jwr_D0N4AhZcrBAdRBKXqqSGH5Gb8WDY/)
   - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/1dSyVz3NBG7-zUDoey8ss6yPZwC6486fVwh4LGlNNvPM/)
