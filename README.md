@@ -42,21 +42,12 @@
 - [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
 
 ### 内容
-- DATフェスタ版のビルドデータ、インストカードのデータ、プロジェクトの提出
-  - Unity
-    - インストカードのデータを、Unityのプロジェクトフォルダーにコピーする
-    - GitHubに最新版をコミット、プッシュして、教員に共有
-  - ティラノ
-    - プロジェクトフォルダーをZIP圧縮する
-    - `Z:\2024\student\gp1\DATフェスタ展示版プロジェクト一式`フォルダーを開いて、新しいフォルダーを作成して、フォルダー名を作品名に変更
-    - 圧縮したZIPファイルと、インストカードのデータを作成したフォルダーにコピーする
 - 展示のまとめ
   - Googleドキュメントを新規に作成して文章名を「DATフェスタまとめ：氏名」とする(例 DATフェスタまとめ：田中)
   - 展示をしていて気づいた点、来場者のコメントをGoogleドキュメントにまとめる
   - 共有をクリックして、リンクを知っている全員が編集できるように設定して、共有リンクを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform?usp=sf_link)に報告
   - 参考： https://am1tanaka.hatenablog.com/entry/2021/11/14/223032
 - 提出されたビルドとドキュメントを確認して、今後の方向性を検討
-  - [講師のコメント]()
 
 ## 後期5回目(11/1)
 
