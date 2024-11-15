@@ -50,6 +50,9 @@
   - 参考： https://am1tanaka.hatenablog.com/entry/2021/11/14/223032 の「[今回の展示で気付いたこと](https://am1tanaka.hatenablog.com/entry/2021/11/14/223032#%E4%BB%8A%E5%9B%9E%E3%81%AE%E5%B1%95%E7%A4%BA%E3%81%A7%E6%B0%97%E4%BB%98%E3%81%84%E3%81%9F%E3%81%93%E3%81%A8)」
 - 提出されたビルドとドキュメントを確認して、今後の方向性を検討
   - [DATフェスタ講師講評](https://docs.google.com/document/d/1f5v4u4e2Vi1_a1rEebjtZ2TsenOlp-f_ZvbS3nJ1nus/)
+- [設計とは何か](https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/)
+- [抽象と具象](https://docs.google.com/document/d/1klcSldVYArtzua48xEb4mjABuR3zRUNOsZQqLQlryOk/)
+- [オブジェクト指向概論](https://github.com/am1tanaka/VBirdHiyoko/blob/main/Docs/oop-solid/oop-solid.md)
 
 ## 後期5回目(11/1)
 
