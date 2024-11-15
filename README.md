@@ -47,7 +47,7 @@
   - Googleドキュメントを新規に作成して文章名を「DATフェスタまとめ：氏名」とする(例 DATフェスタまとめ：田中)
   - 展示をしていて気づいた点、来場者のコメントをGoogleドキュメントにまとめる
   - 共有をクリックして、リンクを知っている全員が編集できるように設定して、共有リンクを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform?usp=sf_link)に報告
-  - 参考： https://am1tanaka.hatenablog.com/entry/2021/11/14/223032
+  - 参考： https://am1tanaka.hatenablog.com/entry/2021/11/14/223032 の「今回の展示で気付いたこと」
 - 提出されたビルドとドキュメントを確認して、今後の方向性を検討
 
 ## 後期5回目(11/1)
