@@ -31,16 +31,24 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 
-## 後期6回目(11/15)
-
-### 今後の1年生のゲームプログラムの進行
-- 今回の開発経験をもとに、設計や最適化、企画運営の考え方を深める
-- 2年生の卒業制作に向けた下準備
+## 後期7回目(11/22)
 
 ### 話題
 - [技術書典展示報告ブログ](https://am1tanaka.hatenablog.com/entry/2024/11/14/203136)
 - [Unity eBooks](https://unity3d.jp/game/game-ebooks/)
 - [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
+
+### 予定
+- [設計とは何か](https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/)
+- [抽象と具象](https://docs.google.com/document/d/1klcSldVYArtzua48xEb4mjABuR3zRUNOsZQqLQlryOk/)
+- [オブジェクト指向概論](https://github.com/am1tanaka/VBirdHiyoko/blob/main/Docs/oop-solid/oop-solid.md)
+- [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
+
+## 後期6回目(11/15)
+
+### 今後の1年生のゲームプログラムの進行
+- 今回の開発経験をもとに、設計や最適化、企画運営の考え方を深める
+- 2年生の卒業制作に向けた下準備
 
 ### 内容
 - 展示のまとめ
