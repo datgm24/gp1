@@ -31,6 +31,13 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 
+## 後期8回目(11/29)
+
+### 予定
+
+- [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
+  - [オーバーライド](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/edit?tab=t.0)から
+
 ## 後期7回目(11/22)
 
 ### 話題
@@ -39,7 +46,7 @@
 - [Unity eBooks](https://unity3d.jp/game/game-ebooks/)
 - [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
 
-### 予定
+### 内容
 - [設計とは何か](https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/)
 - [抽象と具象](https://docs.google.com/document/d/1klcSldVYArtzua48xEb4mjABuR3zRUNOsZQqLQlryOk/)
 - [オブジェクト指向概論](https://github.com/am1tanaka/VBirdHiyoko/blob/main/Docs/oop-solid/oop-solid.md)
