@@ -34,6 +34,7 @@
 ## 後期7回目(11/22)
 
 ### 話題
+- [Qiitaアドベントカレンダー2024](https://qiita.com/advent-calendar/2024)
 - [技術書典展示報告ブログ](https://am1tanaka.hatenablog.com/entry/2024/11/14/203136)
 - [Unity eBooks](https://unity3d.jp/game/game-ebooks/)
 - [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
