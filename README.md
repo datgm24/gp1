@@ -42,7 +42,7 @@
 - [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
   - [オーバーライド](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/edit?tab=t.0)から
 - [よけとる改-企画概要書](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/)
-  - [よけとる改-仕様書](https://docs.google.com/spreadsheets/d/196ZjIGBO9EXnhVhi2MQL2t7Se-x2lCTSPkOVK5KitcA/)
+  - [よけとる改-仕様書](https://docs.google.com/spreadsheets/d/1ZA2auT3AOSZdYPidrWkrzl3TqlmYyR1VFGqBaFEAd5Y/)
 
 ## 後期7回目(11/22)
 
