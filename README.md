@@ -33,6 +33,10 @@
 
 ## 後期8回目(11/29)
 
+### 話題
+
+- [AUTOMATON. 『龍が如く８』開発者による、前代未聞の「ソースコード一部公開」はプログラマー志望者向けへのメッセージだった。プログラマーチームにその意図を訊いた](https://automaton-media.com/articles/interviewsjp/rryuugagotoku-20241127-319679/)
+
 ### 予定
 
 - [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
