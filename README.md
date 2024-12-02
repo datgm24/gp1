@@ -31,13 +31,23 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 
+
+## 後期9回目(12/6)
+
+### 予定
+
+- [よけとる改-企画構想書](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/)
+  - [よけとる改-仕様書](https://docs.google.com/spreadsheets/d/1ZA2auT3AOSZdYPidrWkrzl3TqlmYyR1VFGqBaFEAd5Y/)
+  - 実装
+
+
 ## 後期8回目(11/29)
 
 ### 話題
 
 - [AUTOMATON. 『龍が如く８』開発者による、前代未聞の「ソースコード一部公開」はプログラマー志望者向けへのメッセージだった。プログラマーチームにその意図を訊いた](https://automaton-media.com/articles/interviewsjp/rryuugagotoku-20241127-319679/)
 
-### 予定
+### 内容
 
 - [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
   - [オーバーライド](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/edit?tab=t.0)から
