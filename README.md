@@ -37,8 +37,9 @@
 ### 予定
 
 - [よけとる改-企画構想書](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/)
+  - [よけとる改-企画構想書](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/)
   - [よけとる改-仕様書](https://docs.google.com/spreadsheets/d/1ZA2auT3AOSZdYPidrWkrzl3TqlmYyR1VFGqBaFEAd5Y/)
-  - 実装
+  - [作成手順メモ](https://docs.google.com/document/d/1ar_jQM0rF5j6vMPtDx9rnRNVCLB7ZJ03D98rlrKEMAY/)
 
 
 ## 後期8回目(11/29)
