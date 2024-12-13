@@ -34,6 +34,11 @@
 
 ## 後期9-10回目(12/6, 13)
 
+### 話題
+
+- [Game UI Database](https://www.gameuidatabase.com/index.php)
+- [Interface in game](https://www.gameuidatabase.com/index.php)
+
 ### 予定
 
 - [よけとる改-企画構想書](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/)
