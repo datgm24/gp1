@@ -37,7 +37,7 @@
 ### 話題
 
 - [Game UI Database](https://www.gameuidatabase.com/index.php)
-- [Interface in game](https://www.gameuidatabase.com/index.php)
+- [Interface in game](https://interfaceingame.com/)
 
 ### 予定
 
