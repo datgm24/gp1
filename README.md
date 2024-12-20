@@ -32,7 +32,7 @@
 - [RAPTEX](https://raptex.jp/)
 
 
-## 後期9-10回目(12/6, 13)
+## 後期9-11回目(12/6, 13, 20)
 
 ### 昨日の質問
 
@@ -44,7 +44,7 @@
 - [Game UI Database](https://www.gameuidatabase.com/index.php)
 - [Interface in game](https://interfaceingame.com/)
 
-### 予定
+### 内容
 
 - [よけとる改-企画構想書](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/)
   - [よけとる改-企画構想書](https://docs.google.com/document/d/1QWjmCbE-eK3AFoHZ65Gr_7BzSvXDsPP9iAWpBW4m7Go/)
