@@ -31,6 +31,14 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 
+## 後期12回目(1/10)
+
+### 予定
+
+- 正月の成果物のプロジェクト提出
+- 設計の方向性を検討
+- Yoketoru2024の解説
+
 
 ## 後期9-11回目(12/6, 13, 20)
 
