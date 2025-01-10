@@ -31,13 +31,24 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 
+## 後期13回目(1/17)
+
+### 予定
+
+- [よけとる設計練習](https://am1tanaka.github.io/YoketoruPracticeDocs/index.html)
+  - 前回の復習
+  - リポジトリーを最新版に更新する
+  - プレイヤーの実装練習
+- （できるものがあれば）企画概要書から、設計に向けた検討（できるものがあれば）
+
+
 ## 後期12回目(1/10)
 
 ### 話題
 
 - [Unity eBooks](https://unity3d.jp/game/game-ebooks/)
 
-### 予定
+### 内容
 
 - [よけとる設計練習](https://am1tanaka.github.io/YoketoruPracticeDocs/index.html)
 - Yoketoru2024の解説
