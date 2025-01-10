@@ -33,11 +33,16 @@
 
 ## 後期12回目(1/10)
 
+### 話題
+
+- [Unity eBooks](https://unity3d.jp/game/game-ebooks/)
+
 ### 予定
 
+- [よけとる設計練習](https://am1tanaka.github.io/YoketoruPracticeDocs/index.html)
+- Yoketoru2024の解説
 - 正月の成果物のプロジェクト提出
 - 設計の方向性を検討
-- Yoketoru2024の解説
 
 
 ## 後期9-11回目(12/6, 13, 20)
