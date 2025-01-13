@@ -38,6 +38,13 @@
 - [よけとる設計練習](https://am1tanaka.github.io/YoketoruPracticeDocs/index.html)
   - 前回の復習
   - リポジトリーを最新版に更新する
+    - GitHub Desktopを開く
+    - Current branchをクリックする
+    - Default branchのmasterを選択する
+    - Current branchをクリックする
+    - 下にあるChoose a branch to merge into masterボタンをクリックする
+    - Other branchesの下にあるupstream/masterを選択する。これで、フォーク元のmasterをマージ元として指定する
+    - Create a merge commitをクリックする
   - プレイヤーの実装練習
 - （できるものがあれば）企画概要書から、設計に向けた検討（できるものがあれば）
 
