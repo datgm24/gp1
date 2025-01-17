@@ -31,9 +31,19 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 
-## 後期13回目(1/17)
+## 後期14回目(1/24)
 
 ### 予定
+
+- [よけとる設計練習](https://am1tanaka.github.io/YoketoruPracticeDocs/index.html)
+  - 「5.4.1　プレイヤー管理の実装手順」以降、Playerクラスを完成させるところまでやってみる
+  - 上記の答え
+  - 作業を割る振って、実装練習
+
+
+## 後期13回目(1/17)
+
+### 内容
 
 - [よけとる設計練習](https://am1tanaka.github.io/YoketoruPracticeDocs/index.html)
   - 前回の復習
