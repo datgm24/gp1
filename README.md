@@ -38,7 +38,7 @@
 - [よけとる設計練習](https://am1tanaka.github.io/YoketoruPracticeDocs/index.html)
   - 「5.4.1　プレイヤー管理の実装手順」以降、Playerクラスを完成させるところまでやってみる
   - 上記の答え
-  - 作業を割る振って、実装練習
+  - 作業を割り振って、実装練習
 
 
 ## 後期13回目(1/17)
