@@ -42,6 +42,9 @@
 ### 予定
 
 - 総まとめ
+- [よけとる設計練習](https://am1tanaka.github.io/YoketoruPracticeDocs/index.html)
+  - プレイヤーを完成させる
+  - ポリモーフィズムの設計への活用
 - コードレビュー
 - データバックアップ
 
