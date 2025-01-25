@@ -31,9 +31,24 @@
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 
-## 後期14回目(1/24)
+## 後期15回目(1/31)
+
+### 話題
+
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+- [ゲームクリエイターズギルド](https://gc-guild.net/)
+- [Brackeys Game Jam 2025.1](https://itch.io/jam/brackeys-13)
 
 ### 予定
+
+- 総まとめ
+- コードレビュー
+- データバックアップ
+
+
+## 後期14回目(1/24)
+
+### 内容
 
 - [よけとる設計練習](https://am1tanaka.github.io/YoketoruPracticeDocs/index.html)
   - 準備
